@@ -1,4 +1,4 @@
 Mi primera historia en el documento
-Mi nombre
+Mi nombre es Edgar
 Mi edad
 Mis gustos
