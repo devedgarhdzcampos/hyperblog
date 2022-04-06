@@ -1,0 +1,4 @@
+Mi primera historia en el documento
+Mi nombre
+Mi edad
+Mis gustos
